@@ -46,7 +46,7 @@ export default class Buttons {
 
     this.addButton(
       "camera",
-      "hood",
+      "driver",
       ["driver", "hood", "rear", "backseat", "chase", "aerial", "satellite"],
       (value) => `
       <div class='label'>camera</div>
