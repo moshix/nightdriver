@@ -1,6 +1,6 @@
 [![Drivey screenshot](/readme_assets/screenshot.png?raw=true "Drivey's industrial zone.")](https://rezmason.github.io/drivey)
 
-### Play Drivey.js online [here](https://moshix.github.io/nightdriver/).
+### Drive it now [here](https://moshix.github.io/nightdriver/).
 
 ### Controls
 #### Touch
